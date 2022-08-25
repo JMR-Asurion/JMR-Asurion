@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jason Ross, work GitHub handel @JMR-Asurion
+- 👋 Hi, I’m Jason Ross, work GitHub handle @JMR-Asurion
 - 👀 I’m interested in learning C++, security, Linux sysadmin, PfSense, networking, TP-Link Omada, Docker, and IoT/Raspberry Pi
 - 🌱 I’m currently learning React, Redux, AWS, TypeScript, and DynamoDB
 - 💞️ I’m looking to collaborate on open source projects, particularly Linux-based ones
