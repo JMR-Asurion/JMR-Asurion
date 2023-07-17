@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Ross, work GitHub handle @JMR-Asurion. I've worked at Asurion since April 2017, starting as a frontline expert in the call center for Verizon Tech coach.
 - 👀 I’m interested in learning Rust, security, Linux sysadmin, PfSense, networking, TP-Link Omada, Docker, and IoT/Raspberry Pi.
-- 🌱 I’m currently learning React, Redux, AWS, TypeScript, and DynamoDB.
+- 🌱 I’m currently learning Next.js, AWS, TypeScript, and DynamoDB.
 - 💞️ I’m looking to collaborate on open source projects, particularly Linux-based ones.
 - 📫 How to reach me - hit me up on LinkedIn!
 
